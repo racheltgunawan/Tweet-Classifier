@@ -11,7 +11,7 @@ This project was created so that I could know more about AI and Machine Learning
      - Imported a logistic regression model
 
 ### Results
-The article that assisted me with this project achieved an 89% accuracy on their model, while my project ended up achieving a 96& accuracy. This is due to the fact that I added "stop words" into the bag of words. Getting rid of stop words will allow the model to achieve a higher accuracy because it disregards words that are unnecessary such as "and", "the", "this", etc.
+The article that assisted me with this project achieved an 89% accuracy on their model, while my project ended up achieving a 96% accuracy. This is due to the fact that I added "stop words" into the bag of words. Getting rid of stop words will allow the model to achieve a higher accuracy because it disregards words that are unnecessary such as "and", "the", "this", etc.
 
 ![Screen Shot 2023-08-16 at 5 53 33 PM](https://github.com/racheltgunawan/Tweet-Classifier/assets/58867074/0b2507f9-1279-48c7-987b-19bce55607d4)
 
